@@ -6,4 +6,4 @@ tags: [quotes]
 ---
 
 2023-11-06   
-> Nations have their ego, just like individuals. by James Joyce 
+> Nations have their ego, just like individuals. by <a href="https://en.wikipedia.org/wiki/James_Joyce">James Joyce</a>
