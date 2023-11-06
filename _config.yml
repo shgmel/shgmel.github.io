@@ -37,8 +37,8 @@ linkedin:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Nan Xu
+  email: naxu@student.unimelb.edu.au # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/_9e804caf-3d45-495b-948e-40fa83c5fd88.jpeg"
+avatar: "assets/_9e804caf-3d45-495b-948e-40fa83c5fd88.jpeg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
