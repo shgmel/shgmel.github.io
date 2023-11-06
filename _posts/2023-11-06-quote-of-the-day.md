@@ -5,4 +5,6 @@ categories: [The Economist]
 tags: [quotes]
 ---
 
-2023-11-06 `Nations have their ego, just like individuals.` James Joyce 
+2023-11-06 
+`Nations have their ego, just like individuals.` 
+ James Joyce 
