@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://digiturb.github.io"
 
 github:
-  username: shgmel # change to your github username
+  username: digiturb # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+  #username: twitter_username # change to your twitter username
 
 linkedin:
   username: ttnax
