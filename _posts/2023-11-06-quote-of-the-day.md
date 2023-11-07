@@ -3,7 +3,7 @@ title: Quote of the day
 date: 2023-11-06 18:04:00 Australia/Melbourne
 categories: [TE, Quotes]
 tags: [thoughts]
-pin: True
+pin: false
 ---
 
 2023-11-06   
