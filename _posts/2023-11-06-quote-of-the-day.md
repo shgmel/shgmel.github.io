@@ -14,3 +14,6 @@ pin: false
 
 2023-11-08
 > What hath night to do with sleep? by <a href="https://en.wikipedia.org/wiki/John_Milton">John Milton</a>
+
+2023-11-09
+> He who seeks rest finds boredom. He who seeks work finds rest. by <a href="https://en.wikipedia.org/wiki/Dylan_Thomas">Dylan Thomas</a>
