@@ -1,8 +1,8 @@
 ---
-title: Reading
+title: Readings
 #author: nx
 date: 2023-11-14 07:50:00 Australia/Melbourne
-categories: [PHD, REFERENCE]
+categories: [PHD, Reference]
 tags: [climate change]
 #pin: true
 #math: true
