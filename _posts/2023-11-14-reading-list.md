@@ -13,4 +13,4 @@ tags: [climate change]
   #alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-- Synthesis reports: <a ref="https://unfccc.int/documents/631600">UN Climate Change Conference</a>
+- Synthesis reports: <a href="https://unfccc.int/documents/631600">UN Climate Change Conference</a>
