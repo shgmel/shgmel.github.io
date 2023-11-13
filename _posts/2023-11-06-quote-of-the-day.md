@@ -23,3 +23,7 @@ pin: false
 
 2023-11-11
 > We too often bind ourselves by authorities rather than by the truth. by <a href="https://www.womenshistory.org/education-resources/biographies/lucretia-mott">Lucretia Mott</a>
+
+
+2023-11-13
+> In difficult times, fashion is always outrageous. by <a href="https://en.wikipedia.org/wiki/Elsa_Schiaparelli">Elsa Schiaparelli</a>
