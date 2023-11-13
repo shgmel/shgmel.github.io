@@ -13,5 +13,4 @@ tags: [climate change]
   #alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-- Synthesis reports:
-  <a ref="https://unfccc.int/documents/631600">UN Climate Change Conference - United Arab Emirates Nov/Dec 2023</a>
+- Synthesis reports: <a ref="https://unfccc.int/documents/631600">UN Climate Change Conference United Arab Emirates Nov/Dec 2023</a>
