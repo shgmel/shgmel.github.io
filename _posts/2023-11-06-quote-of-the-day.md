@@ -29,3 +29,9 @@ pin: false
 
 2023-11-14
 > Great causes and little men go ill together. by <a href="https://en.wikipedia.org/wiki/Jawaharlal_Nehru">Jawaharlal Nehru</a>
+
+2023-11-15
+> You get whatever accomplishment you are willing to declare. by <a href="https://www.okeeffemuseum.org/about-georgia-okeeffe/">Georgia O'Keeffe</a>
+
+2023-11-16
+> A man who makes troubles for others makes troubles for himself. by <a href="https://en.wikipedia.org/wiki/Chinua_Achebe">Chinua Achebe</a>
