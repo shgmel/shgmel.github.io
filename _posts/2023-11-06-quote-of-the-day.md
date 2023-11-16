@@ -35,3 +35,6 @@ pin: false
 
 2023-11-16
 > A man who makes troubles for others makes troubles for himself. by <a href="https://en.wikipedia.org/wiki/Chinua_Achebe">Chinua Achebe</a>
+
+2023-11-17
+> Nothing is a waste of time if you use the experience wisely. by <a href="https://rodinmuseum.org/collection/about-auguste-rodin">Auguste Rodin</a>
