@@ -41,3 +41,6 @@ pin: false
 
 2023-11-18
 > A word after a word after a word is power. by <a href="https://en.wikipedia.org/wiki/Margaret_Atwood">Margaret Atwood</a>
+
+2023-11-20
+> The free way of life proposes ends, but it does not prescribe means. by <a href="https://en.wikipedia.org/wiki/Robert_F._Kennedy">Robert F. Kennedy</a>
