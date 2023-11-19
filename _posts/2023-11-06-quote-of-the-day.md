@@ -38,3 +38,6 @@ pin: false
 
 2023-11-17
 > Nothing is a waste of time if you use the experience wisely. by <a href="https://rodinmuseum.org/collection/about-auguste-rodin">Auguste Rodin</a>
+
+2023-11-18
+> A word after a word after a word is power. by <a href="https://en.wikipedia.org/wiki/Margaret_Atwood">Margaret Atwood</a>
