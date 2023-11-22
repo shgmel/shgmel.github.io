@@ -44,3 +44,7 @@ pin: false
 
 2023-11-20
 > The free way of life proposes ends, but it does not prescribe means. by <a href="https://en.wikipedia.org/wiki/Robert_F._Kennedy">Robert F. Kennedy</a>
+
+2023-11-22
+> Leadership and learning are indispensable to each other. by <a href="https://en.wikipedia.org/wiki/John_F._Kennedy">John F. Kennedy</a>
+
