@@ -48,3 +48,5 @@ pin: false
 2023-11-22
 > Leadership and learning are indispensable to each other. by <a href="https://en.wikipedia.org/wiki/John_F._Kennedy">John F. Kennedy</a>
 
+2023-11-23
+> The war against the imagination is the only one the capitalists have actually managed to win. by <a href="https://www.goodreads.com/quotes/10544921-the-war-against-the-imagination-is-the-only-one-the">David Graeber</a>
