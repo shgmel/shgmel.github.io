@@ -14,3 +14,5 @@ tags: [climate change]
 ---
 
 - Synthesis reports: <a href="https://unfccc.int/documents/631600">UN Climate Change Conference</a>
+
+- Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
