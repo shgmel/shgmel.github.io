@@ -50,3 +50,6 @@ pin: false
 
 2023-11-23
 > The war against the imagination is the only one the capitalists have actually managed to win. by <a href="https://www.goodreads.com/quotes/10544921-the-war-against-the-imagination-is-the-only-one-the">David Graeber</a>
+
+2023-11-24
+> All things excellent are as difficult as they are rare. by <a href="https://www.oxfordreference.com/display/10.1093/acref/9780191843730.001.0001/q-oro-ed5-00010359">Baruch Spinoza</a>
