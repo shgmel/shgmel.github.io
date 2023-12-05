@@ -56,3 +56,6 @@ pin: false
 
 2023-12-5
 > A good head and a good heart are always a formidable combination. by <a href="https://www.nelsonmandela.org/content/page/biography">Nelson Mandela</a>
+
+2023-12-6
+> If people never did silly things nothing intelligent would ever get done. by <a href="https://www.goodreads.com/quotes/40166-if-people-never-did-silly-things-nothing-intelligent-would-ever">Ludwig Wittgenstein</a>
