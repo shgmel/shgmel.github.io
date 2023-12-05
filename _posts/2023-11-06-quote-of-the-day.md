@@ -53,3 +53,6 @@ pin: false
 
 2023-11-24
 > All things excellent are as difficult as they are rare. by <a href="https://www.oxfordreference.com/display/10.1093/acref/9780191843730.001.0001/q-oro-ed5-00010359">Baruch Spinoza</a>
+
+2023-12-5
+> A good head and a good heart are always a formidable combination. by <a href="https://www.nelsonmandela.org/content/page/biography">Nelson Mandela</a>
