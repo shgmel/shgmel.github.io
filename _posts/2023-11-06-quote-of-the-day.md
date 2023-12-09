@@ -59,3 +59,6 @@ pin: false
 
 2023-12-6
 > If people never did silly things nothing intelligent would ever get done. by <a href="https://www.goodreads.com/quotes/40166-if-people-never-did-silly-things-nothing-intelligent-would-ever">Ludwig Wittgenstein</a>
+
+2023-12-9
+> Hard are the ways of truth, and rough to walk. by John Milton
