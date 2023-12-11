@@ -62,3 +62,6 @@ pin: false
 
 2023-12-9
 > Hard are the ways of truth, and rough to walk. by John Milton
+
+2023-12-11
+> True rigour is productive, being distinguished in this from another rigour which is purely formal and tiresome, casting a shadow over the problems it touches. by <a href="https://en.wikipedia.org/wiki/%C3%89mile_Picard">Émile Picard</a>
