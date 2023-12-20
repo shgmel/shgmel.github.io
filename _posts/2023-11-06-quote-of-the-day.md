@@ -65,3 +65,6 @@ pin: false
 
 2023-12-11
 > True rigour is productive, being distinguished in this from another rigour which is purely formal and tiresome, casting a shadow over the problems it touches. by <a href="https://en.wikipedia.org/wiki/%C3%89mile_Picard">Émile Picard</a>
+
+2023-12-21
+> You mustn't confuse a single failure with a final defeat. by F.Scott Fitzgerald
