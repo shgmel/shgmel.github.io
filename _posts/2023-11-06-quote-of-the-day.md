@@ -68,3 +68,6 @@ pin: false
 
 2023-12-21
 > You mustn't confuse a single failure with a final defeat. by F.Scott Fitzgerald
+
+2024-2-2
+> Men are born ignorant, not stupid. They are made stupid by education. by <a href="https://plato.stanford.edu/entries/russell/#:~:text=On%20the%20metaphysical%20side%2C%20Russell,theory%20of%20the%20same%20name.)">Bertrand Russell</a>
