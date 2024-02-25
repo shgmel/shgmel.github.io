@@ -18,3 +18,5 @@ tags: [climate change]
 - Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
 
 - <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">John Stuart Mill_On Liberty</a>
+
+- <a href="https://waldyrious.net/viridis-palette-generator/">palette generator</a>
