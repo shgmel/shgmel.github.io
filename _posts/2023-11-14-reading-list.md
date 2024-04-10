@@ -19,4 +19,6 @@ tags: [climate change]
 
 - <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">John Stuart Mill_On Liberty</a>
 
-- <a href="https://waldyrious.net/viridis-palette-generator/">palette generator</a>
+- <a href="https://waldyrious.net/viridis-palette-generator/">Tool_Palette Generator</a>
+
+- <a href="https://www.math.ias.edu/files/Website03-25-19.pdf#page=1">Avi Wigderson_Mathematics and Computation</a>
