@@ -1,5 +1,5 @@
 ---
-title: Readings
+title: References & Tools
 #author: nx
 date: 2023-11-14 07:50:00 Australia/Melbourne
 categories: [PHD, Reference]
@@ -13,12 +13,20 @@ tags: [climate change]
   #alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-- Synthesis reports: <a href="https://unfccc.int/documents/631600">UN Climate Change Conference</a>
+- References
+ - Climate
+  - Synthesis reports: <a href="https://unfccc.int/documents/631600">UN Climate Change Conference</a>
 
-- Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
+  - Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
+ 
+ - Math
+  - Avi Wigderson: <a href="https://www.math.ias.edu/files/Website03-25-19.pdf#page=1">Mathematics and Computation</a>
 
-- <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">John Stuart Mill_On Liberty</a>
+ - Arts
+  - John Stuart Mill: <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">On Liberty</a>
 
-- <a href="https://waldyrious.net/viridis-palette-generator/">Tool_Palette Generator</a>
+- Tools
+  - Palette Generator: <a href="https://waldyrious.net/viridis-palette-generator/">site</a>
 
-- <a href="https://www.math.ias.edu/files/Website03-25-19.pdf#page=1">Avi Wigderson_Mathematics and Computation</a>
+  - Latex Symbols: <a href="https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf">pdf1</a> ; <a href="https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf">pdf2</a>
+
