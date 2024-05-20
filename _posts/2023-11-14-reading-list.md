@@ -26,7 +26,9 @@ tags: [climate change]
       - John Stuart Mill: <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">On Liberty</a>
 
 - Tools
+   - CV 
       - Palette Generator: <a href="https://waldyrious.net/viridis-palette-generator/">site</a>
-
+  
+   - Others
       - Latex Symbols: <a href="https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf">pdf1</a> ; <a href="https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf">pdf2</a>
 
