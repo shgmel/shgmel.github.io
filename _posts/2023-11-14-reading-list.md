@@ -14,19 +14,19 @@ tags: [climate change]
 ---
 
 - References
- - Climate
-  - Synthesis reports: <a href="https://unfccc.int/documents/631600">UN Climate Change Conference</a>
+   - Climate
+      - Synthesis reports: <a href="https://unfccc.int/documents/631600">UN Climate Change Conference</a>
 
-  - Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
+      - Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
  
- - Math
-  - Avi Wigderson: <a href="https://www.math.ias.edu/files/Website03-25-19.pdf#page=1">Mathematics and Computation</a>
+   - Math
+      - Avi Wigderson: <a href="https://www.math.ias.edu/files/Website03-25-19.pdf#page=1">Mathematics and Computation</a>
 
- - Arts
-  - John Stuart Mill: <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">On Liberty</a>
+   - Arts
+      - John Stuart Mill: <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">On Liberty</a>
 
 - Tools
-  - Palette Generator: <a href="https://waldyrious.net/viridis-palette-generator/">site</a>
+      - Palette Generator: <a href="https://waldyrious.net/viridis-palette-generator/">site</a>
 
-  - Latex Symbols: <a href="https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf">pdf1</a> ; <a href="https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf">pdf2</a>
+      - Latex Symbols: <a href="https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf">pdf1</a> ; <a href="https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf">pdf2</a>
 
