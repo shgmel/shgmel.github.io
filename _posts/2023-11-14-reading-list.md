@@ -20,6 +20,7 @@ tags: [climate change]
       - Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
  
    - Math
+      - Yusu Wang: <a href="https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf">Computational Topology for Data Analysis</a>
       - Avi Wigderson: <a href="https://www.math.ias.edu/files/Website03-25-19.pdf#page=1">Mathematics and Computation</a>
 
    - Arts
