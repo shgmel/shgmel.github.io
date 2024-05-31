@@ -25,6 +25,8 @@ tags: [climate change]
    - Arts
       - John Stuart Mill: <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">On Liberty</a>
 
+      - Integrity Under Attack: The State of Scholarly Publishing <a href="https://www-users.cse.umn.edu/~arnold/siam-columns/integrity-under-attack-Chinese.pdf">ch</a> <a href="https://www-users.cse.umn.edu/~arnold/siam-columns/integrity-under-attack.pdf">en</a>
+
 - Tools
    - CV 
       - Palette Generator: <a href="https://waldyrious.net/viridis-palette-generator/">site</a>
