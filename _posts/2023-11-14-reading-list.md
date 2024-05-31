@@ -16,7 +16,6 @@ tags: [climate change]
 - References
    - Climate
       - Synthesis reports: <a href="https://unfccc.int/documents/631600">UN Climate Change Conference</a>
-
       - Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
  
    - Math
@@ -25,7 +24,6 @@ tags: [climate change]
 
    - Arts
       - John Stuart Mill: <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">On Liberty</a>
-
       - Integrity Under Attack: The State of Scholarly Publishing <a href="https://www-users.cse.umn.edu/~arnold/siam-columns/integrity-under-attack-Chinese.pdf">ch</a> <a href="https://www-users.cse.umn.edu/~arnold/siam-columns/integrity-under-attack.pdf">en</a>
 
 - Tools
