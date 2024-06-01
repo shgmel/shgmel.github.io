@@ -19,9 +19,13 @@ tags: [climate change]
       - Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
  
    - Math
+      - Gilbert Strang: <a href="https://math.mit.edu/~gs/">site</a>
+      - David Jerison: <a href="https://math.mit.edu/~jerison/">site</a>
+      - Denis Auroux: <a href="https://people.math.harvard.edu/~auroux/">site</a>
+      - Noam D. Elkies: <a href="https://people.math.harvard.edu/~elkies/">site</a>
       - Tony Chan: <a href="https://www.youtube.com/watch?v=nTD8aNvMytQ">talk</a>
-      - Yusu Wang: <a href="https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf">Computational Topology for Data Analysis</a>
-      - Avi Wigderson: <a href="https://www.math.ias.edu/files/Website03-25-19.pdf#page=1">Mathematics and Computation</a>
+      - Yusu Wang: <a href="https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf">book</a>
+      - Avi Wigderson: <a href="https://www.math.ias.edu/files/Website03-25-19.pdf#page=1">book</a>
 
    - Arts
       - John Stuart Mill: <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">On Liberty</a>
