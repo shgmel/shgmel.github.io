@@ -18,7 +18,9 @@ tags: [climate change]
       - Synthesis reports: <a href="https://unfccc.int/documents/631600">UN Climate Change Conference</a>
       - Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
  
-   - Math
+   - Graph, Discrete Math, Geometry, Topology
+      - Fan Chung: <a href="https://mathweb.ucsd.edu/~fan/">site</a>
+      - Petter Holme: <a href="https://petterhol.me/">site</a>
       - Gilbert Strang: <a href="https://math.mit.edu/~gs/">site</a>
       - David Jerison: <a href="https://math.mit.edu/~jerison/">site</a>
       - Denis Auroux: <a href="https://people.math.harvard.edu/~auroux/">site</a>
