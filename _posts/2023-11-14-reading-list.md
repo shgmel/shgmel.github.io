@@ -19,6 +19,7 @@ tags: [climate change]
       - Emission gap report 2023: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf?sequence=3&isAllowed=y">UNEP</a>
  
    - Graph, Discrete Math, Geometry, Topology
+      - Herbert S. Wilf <a href="https://www2.math.upenn.edu/~wilf/AlgoComp.pdf">book</a>
       - Winnie Li: <a href="https://books.google.com.au/books/about/Number_Theory_with_Applications.html?id=xpWYMQEACAAJ&redir_esc=y">book</a>
       - Dusa Mcduff: <a href="https://julianchaidez.net/solutions/salamonmcduff.pdf">book</a>
       - Marie-France Vigneras: <a href="https://link.springer.com/book/10.1007/BFb0091027">book</a>
