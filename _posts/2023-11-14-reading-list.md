@@ -43,4 +43,4 @@ tags: [climate change]
 - Misc
    - John Stuart Mill: <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">On Liberty</a>
    - Integrity Under Attack: The State of Scholarly Publishing <a href="https://www-users.cse.umn.edu/~arnold/siam-columns/integrity-under-attack-Chinese.pdf">ch</a> <a href="https://www-users.cse.umn.edu/~arnold/siam-columns/integrity-under-attack.pdf">en</a>
-   :- George Orwell: <a href="https://www.amazon.com.au/Animal-Farm-George-Orwell/dp/1922147737/ref=asc_df_1922147737/?tag=googleshopdsk-22&linkCode=df0&hvadid=341792440235&hvpos=&hvnetw=g&hvrand=1135022146044564961&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9112654&hvtargid=pla-703476087964&psc=1&mcid=4eea917d244630c3a85a8420ffa7b1f2">Animal Farm</a>
+   - George Orwell: <a href="https://www.amazon.com.au/Animal-Farm-George-Orwell/dp/1922147737/ref=asc_df_1922147737/?tag=googleshopdsk-22&linkCode=df0&hvadid=341792440235&hvpos=&hvnetw=g&hvrand=1135022146044564961&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9112654&hvtargid=pla-703476087964&psc=1&mcid=4eea917d244630c3a85a8420ffa7b1f2">Animal Farm</a>
