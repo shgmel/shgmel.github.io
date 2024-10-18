@@ -8,6 +8,6 @@ I am currently a PHD student in the <a href="https://infrastructure.eng.unimelb.
 
 I am using computer vision, machine learning to quantify infrastructures and map them with air pollutants or GHG emissions, in an effort to tackle the urgent climate crisis with all interested parties.
 
-One-page CV is <a href='https://unimelbcloud-my.sharepoint.com/:b:/r/personal/naxu_student_unimelb_edu_au/Documents/Resume-NX-2024.pdf?csf=1&web=1&e=Utnfv4'>here</a>.
+One-page CV is <a href='https://acrobat.adobe.com/id/urn:aaid:sc:AP:7e049ec0-508a-43e1-9d54-46aeef30c8ba'>here</a>.
 
 (profile image is created by <a href="https://www.bing.com/create">Bing Creator</a> with the prompt `a child living in Melbourne in 2050`)
