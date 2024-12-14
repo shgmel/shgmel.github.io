@@ -187,6 +187,7 @@ exclude:
   - tools
   - README.md
   - LICENSE
+  - purgecss.js
   - rollup.config.js
   - package*.json
 
